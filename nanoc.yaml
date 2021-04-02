@@ -196,3 +196,25 @@ redirects:
     url: /millennium/r4/conformance/capability-statement
   /millennium/r4/proprietary-codes:
     url: /millennium/r4/proprietary-codes-and-systems
+
+
+  /millennium/r4/conformance:
+    url: /millennium/r4/foundation/conformance
+  /millennium/r4/conformance/capability-statement:
+    url: /millennium/r4/foundation/conformance/capability-statement
+  /millennium/r4/conformance/structure-definition:
+    url: /millennium/r4/foundation/conformance/structure-definition
+  /millennium/r4/security:
+    url: /millennium/r4/foundation/security
+  /millennium/r4/security/provenance:
+    url: /millennium/r4/foundation/security/provenance
+  /millennium/r4/entities/consent:
+    url: /millennium/r4/foundation/security/consent
+  /millennium/r4/documents:
+    url: /millennium/r4/foundation/documents/
+  /millennium/r4/documents/document-reference:
+    url: /millennium/r4/foundation/documents/document-reference
+  /millennium/r4/other:
+    url: /millennium/r4/foundation/other
+  /millennium/r4/other/binary:
+    url: /millennium/r4/foundation/other/binary
